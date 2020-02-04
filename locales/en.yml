@@ -1,0 +1,3 @@
+en:
+  theme_metadata:
+    description: Hides muted categories from the `/categories` page. Categories are still available via the dropdown menu

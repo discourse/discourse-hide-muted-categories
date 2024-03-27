@@ -1,11 +1,11 @@
 .category-boxes {
-    .category[data-notification-level="muted"] {
-        display:none;
-    }
+  .category[data-notification-level="muted"] {
+    display: none;
+  }
 }
 
 table.category-list {
-    tr[data-notification-level="muted"] {
-        display:none;
-    }
+  tr[data-notification-level="muted"] {
+    display: none;
+  }
 }

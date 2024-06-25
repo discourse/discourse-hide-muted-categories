@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 he:
+  theme_metadata:
+    description: הסתרת קטגוריות מושתקות מעמוד ‚‎/categories’ (קטגוריות). הקטגוריות עדיין תהיינה זמינות דרך התפריט הנפתח.

@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 zh_CN:
+  theme_metadata:
+    description: 隐藏 `/categories` 页面中已设为免打扰的类别，但仍可通过下拉菜单访问类别

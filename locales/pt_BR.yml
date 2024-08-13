@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 pt_BR:
+  theme_metadata:
+    description: Oculta categorias silenciadas na página "/categories". As categorias ainda estão disponíveis no menu suspenso

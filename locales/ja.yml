@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 ja:
+  theme_metadata:
+    description: '`/categories` ページからミュートされたカテゴリを非表示にします。カテゴリはドロップダウンメニューから引き続きアクセスできます'

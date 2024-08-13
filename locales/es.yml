@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 es:
+  theme_metadata:
+    description: Oculta las categorías silenciadas de la página «/categorías». Las categorías siguen estando disponibles a través del menú desplegable

@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 nl:
+  theme_metadata:
+    description: Verbergt gedempte categorieën op de '/categories'-pagina. Categorieën zijn nog steeds beschikbaar via het vervolgkeuzemenu
